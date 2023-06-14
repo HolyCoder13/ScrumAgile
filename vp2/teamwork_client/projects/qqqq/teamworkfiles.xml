@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TWFileRepository>
+	<TwFiles>
+		<TwFile checkoutRevision="1" checksum="9e5a03b89917b600c6e32a045ea4ea27" directory="false" lastModified="1681729115275" name="Project Charter.docx" twId="2mV7ceGGAqAEd6YO"/>
+		<TwFile checkoutRevision="1" checksum="f9accf59433e5cf90c02a48ef3f57113" directory="false" lastModified="1681729148551" name="Project Charter2.docx" twId="VmV7ceGGAqAEd6YP"/>
+		<TwFile checkoutRevision="1" checksum="94b9ff9a487187206ed5a556477b6bd3" directory="false" lastModified="1681729100353" name="Project Vision Statement.docx" twId="VmV7ceGGAqAEd6YQ"/>
+		<TwFile checkoutRevision="1" directory="true" lastModified="1681728939641" name="Project_Initiation" twId="XmV7ceGGAqAEd6YR"/>
+		<TwFile checkoutRevision="1" directory="true" lastModified="1681728939735" name="Project_Vision" parentTwId="XmV7ceGGAqAEd6YR" twId="XmV7ceGGAqAEd6YS"/>
+		<TwFile checkoutRevision="1" checksum="1bd16c4e00a282b400baef3320b7dd84" directory="false" lastModified="1680441510623" name="Blank board-5.pdf" parentTwId="XmV7ceGGAqAEd6YS" twId="XmV7ceGGAqAEd6YT"/>
+		<TwFile checkoutRevision="1" checksum="c2c336652d3c7b489bd3e07e74668a8c" directory="false" lastModified="1681729377357" name="Project Vision Statement2.docx" twId="JldHceGGAqAEd8rL"/>
+		<TwFile checkoutRevision="1" checksum="e60d3e4bf8c20181bd63a5cfdb6a549f" directory="false" lastModified="1681729468986" name="Project Charter3.docx" twId="PTmnceGGAqAEdwCG"/>
+		<TwFile checkoutRevision="1" checksum="53f93651209946b21cc22055ce7c6ac3" directory="false" lastModified="1681741103257" name="Product Owner.docx" twId="iXCp8eGGAqDIDS79"/>
+		<TwFile checkoutRevision="1" checksum="5f3a53995862a1544e9fd92de713c3cc" directory="false" lastModified="1681741126764" name="Product Owner2.docx" twId="sWSp8eGGAqDIDTkN"/>
+		<TwFile checkoutRevision="1" checksum="27b58542aae2733328807168d55fb7ad" directory="false" lastModified="1682239372389" name="Scrum Team.docx" twId="CZviteGGAqACZlfw"/>
+		<TwFile checkoutRevision="1" checksum="de15f3291ba466c89c7f4a3d4fc7e4d2" directory="false" lastModified="1682239457135" name="Project Charter4.docx" twId="pVKSteGGAqACZmPZ"/>
+		<TwFile checkoutRevision="1" checksum="bc878969331ec42ac7ac0292a0340547" directory="false" lastModified="1682239445011" name="Project Vision Statement3.docx" twId="5VKSteGGAqACZmPa"/>
+		<TwFile checkoutRevision="1" checksum="2dfd27bc9a606c054d9468e42151ccc7" directory="false" lastModified="1682239477762" name="Product Owner3.docx" twId="s8aSteGGAqACZm9_"/>
+		<TwFile checkoutRevision="1" checksum="3e6c8f4293fbe4555af8c372dd262ece" directory="false" lastModified="1682239477978" name="Scrum Team2.docx" twId="s8aSteGGAqACZm.A"/>
+		<TwFile checkoutRevision="1" checksum="a2de5709aaff94ca0b619de4f98d62aa" directory="false" lastModified="1682239501005" name="Project Charter5.docx" twId="PqNyteGGAqACZnnq"/>
+		<TwFile checkoutRevision="1" checksum="58d82c2d4a39051ad3014b3fb93c34e8" directory="false" lastModified="1682239857686" name="Project Charter6.docx" twId="UFLyteGGAqACZo4u"/>
+		<TwFile checkoutRevision="1" checksum="f290aa8bea6eae0973f478f8af7c3468" directory="false" lastModified="1682247018986" name="Stakeholder List.docx" twId="Pe49teGGAqACZiXi"/>
+		<TwFile checkoutRevision="1" checksum="b825409e13959bd5ee9143a9a2206454" directory="false" lastModified="1682247042618" name="Stakeholder List2.docx" twId="w2M9teGGAqACZjOK"/>
+		<TwFile checkoutRevision="1" checksum="a067c708c44e15ca3baa2a8d3cdfc72c" directory="false" lastModified="1682247264430" name="Scrum Master.docx" twId="SCwDteGGAqACZlJx"/>
+		<TwFile checkoutRevision="1" checksum="53aa1d1fc3a9b82fb53b3bf5980889e1" directory="false" lastModified="1682333519185" name="Project Charter8.docx" twId="Xxa9deGGAqAQpmYR"/>
+		<TwFile checkoutRevision="1" checksum="b6bd597814012a3f863442e669329aae" directory="false" lastModified="1682333519170" name="Project Charter7.docx" twId="yNS9deGGAqAQplpN"/>
+		<TwFile checkoutRevision="1" checksum="600a456f1c6c663ac1970abb85d884b3" directory="false" lastModified="1682333519185" name="Use Case Report.docx" twId="WeWXdeGGAqAQptJA"/>
+		<TwFile checkoutRevision="1" checksum="9acfe8a7789e16c8b229199d722512cb" directory="false" lastModified="1682333519154" name="Use Case Report2.docx" twId="MCeXdeGGAqAQpuRh"/>
+		<TwFile checkoutRevision="1" checksum="8e9f3148e6362f79261ed204daa041da" directory="false" lastModified="1682333519170" name="Use Case Report3.docx" twId="Sz0PdeGGAqAQpgjV"/>
+		<TwFile checkoutRevision="1" checksum="9f19d21f3cf11ee63b4b1404c43ff4fd" directory="false" lastModified="1682333519154" name="Project Vision Statement7.docx" twId="Xxa9deGGAqAQpmYS"/>
+		<TwFile checkoutRevision="1" checksum="aa372876fc62c9ef419ad68bfcec4f49" directory="false" lastModified="1682333519185" name="Project Vision Statement5.docx" twId="xNS9deGGAqAQplpP"/>
+		<TwFile checkoutRevision="1" checksum="6686440a6317b95e4ee4bce67e2da8bc" directory="false" lastModified="1682333519170" name="Project Vision Statement4.docx" twId="xNS9deGGAqAQplpO"/>
+		<TwFile checkoutRevision="1" checksum="3f2a440fb4e2987663a5aee59606f0f2" directory="false" lastModified="1682333519185" name="Project Vision Statement6.docx" twId="xNS9deGGAqAQplpQ"/>
+		<TwFile checkoutRevision="1" checksum="f043ecc4e58360b219ece541ae1d95d5" directory="false" lastModified="1683280132035" name="Epics Report.docx" twId="aR4K1.GGAqDIDXue"/>
+		<TwFile checkoutRevision="1" checksum="dda8badf78ec59ae5f7d37fd20e9ef4e" directory="false" lastModified="1683280159756" name="Epics Report2.docx" twId="4ScK1.GGAqDIDZve"/>
+		<TwFile checkoutRevision="1" checksum="f30e456fdccafe144ebe43a3fc901463" directory="false" lastModified="1683280195028" name="Epics Report3.docx" twId="AvaK1.GGAqDIDS14"/>
+		<TwFile checkoutRevision="1" checksum="cbff2a9fca0c1b12ca325bd19e22fdfa" directory="false" lastModified="1683280194777" name="Use Case Report4.docx" twId="gvaK1.GGAqDIDS15"/>
+		<TwFile checkoutRevision="1" checksum="e5c519f1f43bd6e5deaffcf87905e94b" directory="false" lastModified="1683280703199" name="Epics Report4.docx" twId="thya1.GGAqDIDXgW"/>
+		<TwFile checkoutRevision="1" checksum="5c5f0acb7f74815cbba05764d7fc6cb7" directory="false" lastModified="1683280702926" name="Use Case Report5.docx" twId="thya1.GGAqDIDXgX"/>
+		<TwFile checkoutRevision="1" checksum="7b28d7577b4e211fa5ddd26d64cdfd2a" directory="false" lastModified="1683280841023" name="Scrum Team3.docx" twId="PZLa1.GGAqDIDb5A"/>
+		<TwFile checkoutRevision="1" checksum="0490bfb5f1543534dbc57e14cd62a024" directory="false" lastModified="1683536692259" name="Epics Report5.docx" twId="CRbZX.GGAqDIDcJY"/>
+		<TwFile checkoutRevision="1" checksum="a6bb506966c1263b734ec8fa9ecdccfb" directory="false" lastModified="1684144071219" name="Epics Report10.docx" twId="v5iNX.GGAqAQptFz"/>
+		<TwFile checkoutRevision="1" checksum="e6d45451ddce6d6ed1fc0e02fbeae063" directory="false" lastModified="1684144071188" name="Use Case Report10.docx" twId="oGC3X.GGAqAQpoEO"/>
+		<TwFile checkoutRevision="1" checksum="762b9f714a434dfc0f70bdd30cd846c0" directory="false" lastModified="1684144071219" name="Epics Report15.docx" twId="KGLTX.GGAqAQpumL"/>
+		<TwFile checkoutRevision="1" checksum="27608ad5057ed60a75617e2ed667856e" directory="false" lastModified="1684144071219" name="Epics Report18.docx" twId="XvGrX.GGAqAQpqcz"/>
+		<TwFile checkoutRevision="1" checksum="147af2ad9e68c199321753bd3b4cc181" directory="false" lastModified="1684144071204" name="Use Case Report8.docx" twId="KZkzX.GGAqAQpj8_"/>
+		<TwFile checkoutRevision="1" checksum="7fabaa812a44d01b885ce7a47637f5e4" directory="false" lastModified="1684144071219" name="Epics Report20.docx" twId="51JnX.GGAqAQpgKh"/>
+		<TwFile checkoutRevision="1" checksum="5e6ab00f8e147dc8de3153a3ebe1253e" directory="false" lastModified="1684144071250" name="Epics Report19.docx" twId="LRcHX.GGAqAQpmAp"/>
+		<TwFile checkoutRevision="1" checksum="e353f0948574bbfaf9867bea5228a5ce" directory="false" lastModified="1684144071235" name="Epics Report7.docx" twId="tyKlX.GGAqAQpjH6"/>
+		<TwFile checkoutRevision="1" checksum="203fd92fb502a7c4e33872ea89121357" directory="false" lastModified="1684144071250" name="Use Case Report6.docx" twId="tyKlX.GGAqAQpjH7"/>
+		<TwFile checkoutRevision="1" checksum="af96d92eceb438c755aafa281c6cad62" directory="false" lastModified="1684144071219" name="Epics Report6.docx" twId="3tPFX.GGAqAQptj2"/>
+		<TwFile checkoutRevision="1" checksum="c125528631246580e923dbd1ca0bffac" directory="false" lastModified="1684144071219" name="Epics Report16.docx" twId="KZkzX.GGAqAQpj8."/>
+		<TwFile checkoutRevision="1" checksum="321081483b8eb802fc7288773888d6f1" directory="false" lastModified="1684144071235" name="Epics Report14.docx" twId="yLWjX.GGAqAQprcM"/>
+		<TwFile checkoutRevision="1" checksum="b2abb36e815bb0c9e0884aa4cf4be54e" directory="false" lastModified="1684144071235" name="Epics Report21.docx" twId="r6C3X.GGAqAQpoEN"/>
+		<TwFile checkoutRevision="1" checksum="0a157ace50643e0bce60a4535d7e974a" directory="false" lastModified="1684144071204" name="Epics Report9.docx" twId="Xzx1X.GGAqAQpqnp"/>
+		<TwFile checkoutRevision="1" checksum="685ebc56a8677d5b242a9687261b335b" directory="false" lastModified="1684144071235" name="Product Backlog.docx" twId="RYb42BGGAqACCF5i"/>
+		<TwFile checkoutRevision="1" checksum="7860e87b51997a18ba427d892498278d" directory="false" lastModified="1684144071204" name="Epics Report8.docx" twId="kQ7VX.GGAqAQpn4N"/>
+		<TwFile checkoutRevision="1" checksum="6c70fc5150ee0cd691b6d5f8d7bf5db3" directory="false" lastModified="1684144071235" name="Epics Report12.docx" twId="fZ6dX.GGAqAQpkoq"/>
+		<TwFile checkoutRevision="1" checksum="e052d6fad7dcb4f66a92fdab8d0b3be0" directory="false" lastModified="1684144071235" name="Use Case Report7.docx" twId="fZ6dX.GGAqAQpkor"/>
+		<TwFile checkoutRevision="1" checksum="2faead476744d966b31a4f58d9fe4da1" directory="false" lastModified="1684144071188" name="Epics Report13.docx" twId="K6O9X.GGAqAQpndI"/>
+		<TwFile checkoutRevision="1" checksum="77366469a08f2962efe208231a584148" directory="false" lastModified="1684144071204" name="Epics Report11.docx" twId="6A6NX.GGAqAQpget"/>
+		<TwFile checkoutRevision="1" checksum="ff68e1b50078bd70d382a11a461d3f2b" directory="false" lastModified="1684144071219" name="Epics Report22.docx" twId="7LjvX.GGAqAQpiyU"/>
+		<TwFile checkoutRevision="1" checksum="6cb134d27aa1dbcc5b1ad5540209b265" directory="false" lastModified="1684144071219" name="Use Case Report9.docx" twId="YGRzX.GGAqAQpn6f"/>
+		<TwFile checkoutRevision="1" checksum="4c9cd4d1e757ea441fb772a87638463c" directory="false" lastModified="1684144071235" name="Use Case Report11.docx" twId="7LjvX.GGAqAQpiyV"/>
+		<TwFile checkoutRevision="1" checksum="02056290ad99ec8c5d3c30a08b65ee2e" directory="false" lastModified="1684144071219" name="Epics Report17.docx" twId="IGRzX.GGAqAQpn6e"/>
+		<TwFile checkoutRevision="1" checksum="371bafba98e8c29db28ae90d8cb4149d" directory="false" lastModified="1684145079651" name="Epics Report23.docx" twId="yMl7eBGGAqAEd8oq"/>
+		<TwFile checkoutRevision="1" checksum="0736f29fb5c159a7404bc1cba815e237" directory="false" lastModified="1684145079323" name="Use Case Report12.docx" twId="yMl7eBGGAqAEd8or"/>
+		<TwFile checkoutRevision="1" checksum="425f8fbb77d0e463eb90939b7690fb96" directory="false" lastModified="1684145693361" name="Scrum Team4.docx" twId="wjfneBGGAqAEdxeG"/>
+		<TwFile checkoutRevision="1" checksum="33d8c171699f1f42a1dc5427371191af" directory="false" lastModified="1684146431525" name="Scrum Team5.docx" twId="fIzPeBGGAqAEd7rI"/>
+		<TwFile checkoutRevision="1" checksum="d91e7a7d917644d1328bdcea90411436" directory="false" lastModified="1686129466050" name="Project Charter13.docx" twId="0gv90RGGAqAQptsp"/>
+		<TwFile checkoutRevision="1" checksum="902ff683e2777eb13e5f12d91e806473" directory="false" lastModified="1686129465956" name="Product Backlog7.docx" twId="HqqhShGGAqACBg4z"/>
+		<TwFile checkoutRevision="1" checksum="15e543e36cf149d92f21fc674dfea774" directory="false" lastModified="1686129466081" name="Project Vision Statement11.docx" twId="SUC90RGGAqAQprOp"/>
+		<TwFile checkoutRevision="1" checksum="45a01876b7e1fd9e95cf8844bfe8e553" directory="false" lastModified="1686129466019" name="Daily Scrum Meeting Agenda4.docx" twId="IYHP0RGGAqAQptZD"/>
+		<TwFile checkoutRevision="1" checksum="58dc162e467455d0583660e745677691" directory="false" lastModified="1686129466050" name="Daily Scrum Meeting Minutes4.docx" twId="IYHP0RGGAqAQptZE"/>
+		<TwFile checkoutRevision="1" checksum="9e36044f7c023f62338b7cfed063cfc1" directory="false" lastModified="1686129465987" name="Product Backlog14.docx" twId="m_ZbxBGGAqAQppmO"/>
+		<TwFile checkoutRevision="1" checksum="2d022ae309393d25f8a2537c5b3ddddd" directory="false" lastModified="1686129465956" name="Sprint Retrospective Meeting Minutes2.docx" twId="mrFyMRGGAqAQpir0"/>
+		<TwFile checkoutRevision="1" checksum="02e41809746aeea7788fa14706701755" directory="false" lastModified="1686129465940" name="Sprint Retrospective2.docx" twId="mrFyMRGGAqAQpir1"/>
+		<TwFile checkoutRevision="1" checksum="326992b832a462e9827611fa71470fc9" directory="false" lastModified="1686129465956" name="Product Backlog18.docx" twId="HGKCMRGGAqAQptDs"/>
+		<TwFile checkoutRevision="1" checksum="057e614b076d65c6b7c841af3b13a58c" directory="false" lastModified="1686129465987" name="Project Vision Statement12.docx" twId="C9790RGGAqAQps.t"/>
+		<TwFile checkoutRevision="1" checksum="848c245e73d08a13ff9c3d76b41e870b" directory="false" lastModified="1686129466034" name="Project Charter12.docx" twId="C9790RGGAqAQps.s"/>
+		<TwFile checkoutRevision="1" checksum="7b4789a2e7d78bdc04e70590a73ede21" directory="false" lastModified="1686129465925" name="Product Backlog8.docx" twId="MnBNShGGAqACBiXr"/>
+		<TwFile checkoutRevision="1" checksum="f7fba2603ff78ab007f6ef6df1b39266" directory="false" lastModified="1686129466034" name="Product Backlog10.docx" twId="ux_o5hGGAqAQpmEo"/>
+		<TwFile checkoutRevision="1" checksum="d4372c9e220198f2bf01f44d3e821961" directory="false" lastModified="1686129465972" name="Daily Scrum Meeting Agenda2.docx" twId="W2IcJhGGAqAQpkGI"/>
+		<TwFile checkoutRevision="1" checksum="523af9ee742482623027eb673131d1d2" directory="false" lastModified="1686129466065" name="Epics Report25.docx" twId="rIzd0RGGAqAQpona"/>
+		<TwFile checkoutRevision="1" checksum="2fc7c7d49d805b640dc2cdef0974d849" directory="false" lastModified="1686129466019" name="Daily Scrum Meeting Agenda.docx" twId="dlmJ6hGGAqACBpIM"/>
+		<TwFile checkoutRevision="1" checksum="8ca4ba8570b08f91bfe8ff4ee9a718fb" directory="false" lastModified="1686129466034" name="Lessons Learned4.docx" twId="rIzd0RGGAqAQponb"/>
+		<TwFile checkoutRevision="1" checksum="20abd2f4eb39233f05a72967e9f2ae05" directory="false" lastModified="1686129466003" name="Product Backlog11.docx" twId="XjLp1hGGAqCYqgOU"/>
+		<TwFile checkoutRevision="1" checksum="ceb8cffd51ee72e601236f6a5d298a66" directory="false" lastModified="1686129466065" name="Sprint Retrospective Meeting Agenda2.docx" twId="arFyMRGGAqAQpirz"/>
+		<TwFile checkoutRevision="1" checksum="ae48ca15b6b4ea7dd36615b6bb48f5e1" directory="false" lastModified="1686129465987" name="Project Retrospective Meeting Minutes2.docx" twId="fKKlihGGAqACBtlx"/>
+		<TwFile checkoutRevision="1" checksum="9228eba65357a745e1a98725971d35ca" directory="false" lastModified="1686129466003" name="Project Retrospective Meeting Agenda2.docx" twId="fKKlihGGAqACBtlw"/>
+		<TwFile checkoutRevision="1" checksum="4ae0a837d48a06941fa0899d3a203a95" directory="false" lastModified="1686129466019" name="Product Backlog15.docx" twId="ofS4shGGAqAQpqSa"/>
+		<TwFile checkoutRevision="1" checksum="62b2b9c4a42dec6c0b225209b1617ac3" directory="false" lastModified="1686129466034" name="Lessons Learned2.docx" twId="fKKlihGGAqACBtlv"/>
+		<TwFile checkoutRevision="1" checksum="427723b2fbdbddac2a97dddd4511351e" directory="false" lastModified="1686129466003" name="Product Backlog9.docx" twId="1U6QJhGGAqAQpmEj"/>
+		<TwFile checkoutRevision="1" checksum="eacf135cd6a4b17280ffd0dac8ac68d6" directory="false" lastModified="1686129465940" name="Project Retrospective Meeting Minutes3.docx" twId="Q8_VihGGAqACBjK0"/>
+		<TwFile checkoutRevision="1" checksum="81bea9384d22e2ebdb2c5827b7eb7f76" directory="false" lastModified="1686129466050" name="Release Plan.docx" twId=".X1JShGGAqACBr8O"/>
+		<TwFile checkoutRevision="1" checksum="f2bb6f00bdf33a466d191eeb77f13377" directory="false" lastModified="1686129466003" name="Sprint Retrospective Meeting Minutes.docx" twId="1aVsMRGGAqAQphC3"/>
+		<TwFile checkoutRevision="1" checksum="e6e246a9236de4518726553792978e7e" directory="false" lastModified="1686129465940" name="Sprint Retrospective.docx" twId="1aVsMRGGAqAQphC4"/>
+		<TwFile checkoutRevision="1" checksum="7670999f1143bc631037f770a93c2266" directory="false" lastModified="1686129465972" name="Product Backlog2.docx" twId="XjjXihGGAqACBteM"/>
+		<TwFile checkoutRevision="1" checksum="ea3261b7f3daeab83fa694bfa2920928" directory="false" lastModified="1686129466065" name="Sprint Retrospective Meeting Agenda.docx" twId="1aVsMRGGAqAQphC2"/>
+		<TwFile checkoutRevision="1" checksum="be48d085f1e50061524d5b8ca6fe4e60" directory="false" lastModified="1686129465972" name="Project Charter11.docx" twId="QUC90RGGAqAQprOo"/>
+		<TwFile checkoutRevision="1" checksum="4ee6c4d0a750f6dd29fd69fbdea47df5" directory="false" lastModified="1686129465940" name="Use Case Report13.docx" twId="oozd0RGGAqAQponl"/>
+		<TwFile checkoutRevision="1" checksum="5fc765c811210d3f1069aee32edd4e03" directory="false" lastModified="1686129465972" name="Scrum Team7.docx" twId="oozd0RGGAqAQponk"/>
+		<TwFile checkoutRevision="1" checksum="9f484a637be9eb84ca47d42359adc2b1" directory="false" lastModified="1686129466019" name="Project Vision Statement10.docx" twId="oozd0RGGAqAQponh"/>
+		<TwFile checkoutRevision="1" checksum="cde59a8d7c39238a8ec1fcf1b9e40e5a" directory="false" lastModified="1686129466019" name="Project Retrospective Meeting Minutes4.docx" twId="oozd0RGGAqAQpong"/>
+		<TwFile checkoutRevision="1" checksum="c3deb2bc01605c38a9a715b103c04f69" directory="false" lastModified="1686129465987" name="Scrum Master2.docx" twId="oozd0RGGAqAQponj"/>
+		<TwFile checkoutRevision="1" checksum="bab0bab7a97fd824b9afe031840d22ff" directory="false" lastModified="1686129466050" name="Release Plan2.docx" twId="oozd0RGGAqAQponi"/>
+		<TwFile checkoutRevision="1" checksum="a5d833658a91f5039aa89bb814540c85" directory="false" lastModified="1686129466019" name="Product Owner4.docx" twId="oozd0RGGAqAQpond"/>
+		<TwFile checkoutRevision="1" checksum="42daf86ae68acded088a1c643a497ef4" directory="false" lastModified="1686129466003" name="Product Backlog17.docx" twId="oozd0RGGAqAQponc"/>
+		<TwFile checkoutRevision="1" checksum="35072b85b3c1587707d51d95d4541951" directory="false" lastModified="1686129466034" name="Project Retrospective Meeting Agenda4.docx" twId="oozd0RGGAqAQponf"/>
+		<TwFile checkoutRevision="1" checksum="f10a83bfdfad4a47366bf39a7a493f25" directory="false" lastModified="1686129465987" name="Project Charter10.docx" twId="oozd0RGGAqAQpone"/>
+		<TwFile checkoutRevision="1" checksum="890342d2e401739346a73e78160d9512" directory="false" lastModified="1686129466034" name="Impediment Log3.docx" twId="kzhiMRGGAqAQpomt"/>
+		<TwFile checkoutRevision="1" checksum="4f97114c3deeeba8cfec022d6a27723d" directory="false" lastModified="1686129466019" name="Daily Scrum Meeting Minutes.docx" twId="TlmJ6hGGAqACBpIN"/>
+		<TwFile checkoutRevision="1" checksum="d879bcef0d69d305417b03c0a61b0eff" directory="false" lastModified="1686129466019" name="Use Case Report14.docx" twId="OWcj0RGGAqAQpjZH"/>
+		<TwFile checkoutRevision="1" checksum="e2dd6b6d8a5a5ca5978125e8392c2d3f" directory="false" lastModified="1686129466065" name="Epics Report26.docx" twId="OWcj0RGGAqAQpjZG"/>
+		<TwFile checkoutRevision="1" checksum="71fb1868f318acdf2545d6808525cd99" directory="false" lastModified="1686129466003" name="Impediment Log.docx" twId="sjt8yhGGAqACBjlr"/>
+		<TwFile checkoutRevision="1" checksum="d8bd82ecd44a8fe851cc6c48f03dd859" directory="false" lastModified="1686129466034" name="Project Vision Statement8.docx" twId="BZPt0RGGAqAQpiX1"/>
+		<TwFile checkoutRevision="1" checksum="67f07ad12ccfca317a42a7a1506430ae" directory="false" lastModified="1686129465956" name="Product Backlog3.docx" twId="DCXXihGGAqACBhoj"/>
+		<TwFile checkoutRevision="1" checksum="57a25c5705ca9c2c46efcca84d00734c" directory="false" lastModified="1686129465987" name="Product Backlog6.docx" twId="rbkBShGGAqACBlIO"/>
+		<TwFile checkoutRevision="1" checksum="3df25f2e35b0ce839bb3fe39f0bf6641" directory="false" lastModified="1686129466065" name="Burndown Chart.docx" twId="bYuoyhGGAqACBm__"/>
+		<TwFile checkoutRevision="1" checksum="e8f9701036ccdd9d697aa7dbbd403767" directory="false" lastModified="1686129465925" name="Daily Scrum Meeting Minutes3.docx" twId="MhSCJhGGAqAQpi_L"/>
+		<TwFile checkoutRevision="1" checksum="9b01ada3acfc5aba08e10ec02d73469f" directory="false" lastModified="1686129466003" name="Product Backlog4.docx" twId="INR6ShGGAqACBor4"/>
+		<TwFile checkoutRevision="1" checksum="09410623d931730205034c4e922385c7" directory="false" lastModified="1686129465972" name="Daily Scrum Meeting Agenda3.docx" twId="MhSCJhGGAqAQpi_K"/>
+		<TwFile checkoutRevision="1" checksum="918283b4395bef76bb029a719131e6c3" directory="false" lastModified="1686129466034" name="Product Backlog5.docx" twId="5_e2ShGGAqACBp_z"/>
+		<TwFile checkoutRevision="1" checksum="faead216c912a9a7678ea478a1da069e" directory="false" lastModified="1686129466065" name="Scrum Team6.docx" twId="53h2eBGGAqCYqqLd"/>
+		<TwFile checkoutRevision="1" checksum="d6a8910d72cdf02d10995e317f3fe3fe" directory="false" lastModified="1686129466003" name="Daily Scrum Meeting Agenda5.docx" twId="UodiMRGGAqAQprXp"/>
+		<TwFile checkoutRevision="1" checksum="fe996ab5516ace5c89c44e39f7333d6e" directory="false" lastModified="1686129465972" name="Daily Scrum Meeting Minutes5.docx" twId="UodiMRGGAqAQprXq"/>
+		<TwFile checkoutRevision="1" checksum="c868b86841c6ec74fd566af43a62ee42" directory="false" lastModified="1686129465956" name="Epics Report24.docx" twId="TN7mShGGAqACBjSB"/>
+		<TwFile checkoutRevision="1" checksum="e0f8050a6dcaee76f9fdbdb2732b7637" directory="false" lastModified="1686129465956" name="Project Retrospective Meeting Agenda3.docx" twId="Q8_VihGGAqACBjKz"/>
+		<TwFile checkoutRevision="1" checksum="3c0f05a661e8af7b0e86dce267128ca9" directory="false" lastModified="1686129465972" name="Lessons Learned3.docx" twId="Q8_VihGGAqACBjKy"/>
+		<TwFile checkoutRevision="1" checksum="fa22a839383ebf1ecb4787ae84706a23" directory="false" lastModified="1686129465972" name="Project Vision Statement13.docx" twId="Wgv90RGGAqAQptsq"/>
+		<TwFile checkoutRevision="1" checksum="e51bb85ac20f6d9d20eccb7711d239bd" directory="false" lastModified="1686129466050" name="Use Case Report15.docx" twId="plkz0RGGAqAQpnp6"/>
+		<TwFile checkoutRevision="1" checksum="7297079a30af0b3afab603c749cb219a" directory="false" lastModified="1686129466065" name="Epics Report27.docx" twId="plkz0RGGAqAQpnp5"/>
+		<TwFile checkoutRevision="1" checksum="e0c0dd5bc1bf9c09d4b25280a6b952b4" directory="false" lastModified="1686129466050" name="Product Backlog12.docx" twId="yzsrxBGGAqAQplDn"/>
+		<TwFile checkoutRevision="1" checksum="ccda17c36864de44c416280e45073d5a" directory="false" lastModified="1686129465956" name="Project Retrospective Meeting Minutes.docx" twId="p34pihGGAqACBhdv"/>
+		<TwFile checkoutRevision="1" checksum="fc5d9c1765a5a00c0f0626c4faef6129" directory="false" lastModified="1686129465956" name="Product Backlog13.docx" twId="d1KbxBGGAqAQpkvD"/>
+		<TwFile checkoutRevision="1" checksum="0808a6b445751755865f55d8c80e0f49" directory="false" lastModified="1686129466050" name="Lessons Learned.docx" twId="p34pihGGAqACBhdt"/>
+		<TwFile checkoutRevision="1" checksum="f5212d812d1e8d1deddc2b78870ed0b8" directory="false" lastModified="1686129465987" name="Product Backlog16.docx" twId="y6zEshGGAqAQplIW"/>
+		<TwFile checkoutRevision="1" checksum="ba77d8d6465e4a0b0e28964849754731" directory="false" lastModified="1686129466050" name="Project Retrospective Meeting Agenda.docx" twId="p34pihGGAqACBhdu"/>
+		<TwFile checkoutRevision="1" checksum="953dd15f60c5dc072eb76d3a4b3c0744" directory="false" lastModified="1686129466065" name="Impediment Log2.docx" twId="eAv30RGGAqAQpqgZ"/>
+		<TwFile checkoutRevision="1" checksum="56ed5cfb99c3aeacbe268f9ef85d4954" directory="false" lastModified="1686129465987" name="Burndown Chart2.docx" twId="hhSiMRGGAqAQpl1s"/>
+		<TwFile checkoutRevision="1" checksum="3b676a002584659ee00b66aa1c4bdb16" directory="false" lastModified="1686129465972" name="Daily Scrum Meeting Minutes2.docx" twId="V2IcJhGGAqAQpkGJ"/>
+		<TwFile checkoutRevision="1" checksum="a1cfb7923e8ff096b260e2a0db610378" directory="false" lastModified="1686129466019" name="Project Vision Statement9.docx" twId="_j5d0RGGAqAQplND"/>
+		<TwFile checkoutRevision="1" checksum="80f13eb5473a59a40879c4c0acf246f9" directory="false" lastModified="1686129465940" name="Project Charter9.docx" twId="_j5d0RGGAqAQplNC"/>
+		<TwFile checkoutRevision="1" checksum="f8844957adb43b6ac3fae311176e48f3" directory="false" lastModified="1686566575241" name="Product Backlog19.docx" twId="Z5XM9RGGAqAEd3Xr"/>
+		<TwFile checkoutRevision="1" checksum="304ffdca2700c0dafea8a112d8ffee1f" directory="false" lastModified="1686566631930" name="Product Backlog20.docx" twId="yN4s9RGGAqAEd7El"/>
+		<TwFile checkoutRevision="1" checksum="37ddac8eb63f6847563473c9eea9ff72" directory="false" lastModified="1685097998824" name="Product Backlog21.docx" twId="UVdV6hGGAqAEd.m1"/>
+	</TwFiles>
+</TWFileRepository>
